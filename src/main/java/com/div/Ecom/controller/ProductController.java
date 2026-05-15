@@ -1,8 +1,9 @@
-package com.sudip.Backend11.controller;
+package com.div.Ecom.controller;
 
 
-import com.sudip.Backend11.model.Product;
-import com.sudip.Backend11.service.ProductService;
+import com.div.Ecom.model.Product;
+import com.div.Ecom.service.ProductService;
+
 import org.springframework.http.MediaType;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

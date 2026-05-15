@@ -1,7 +1,8 @@
-package com.sudip.Backend11.service;
+package com.div.Ecom.service;
 
-import com.sudip.Backend11.Repository.ProductRepo;
-import com.sudip.Backend11.model.Product;
+import com.div.Ecom.Repository.ProductRepo;
+import com.div.Ecom.model.Product;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.web.multipart.MultipartFile;

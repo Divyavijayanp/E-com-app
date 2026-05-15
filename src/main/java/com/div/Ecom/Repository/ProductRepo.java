@@ -1,9 +1,10 @@
-package com.sudip.Backend11.Repository;
+package com.div.Ecom.Repository;
 
-import com.sudip.Backend11.model.Product;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;
+
+import com.div.Ecom.model.Product;
 
 import java.util.List;
 

@@ -1,13 +1,13 @@
-package com.sudip.Backend11;
+package com.div.Ecom;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Backend11Application {
+public class EcomApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Backend11Application.class, args);
+		SpringApplication.run(EcomApplication.class, args);
 	}
 
 }
